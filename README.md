@@ -1,7 +1,7 @@
 # Assalamu Alaikum 👋, I'm Ibnul Mansib!
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3YHi6V8gu18mHtWf7qPASfnWHWO1tx5tdg&s" width="100%" alt="Background Banner">
+  <img src="https://github.com/Mansib-eng/Mansib-eng/blob/main/ai.jpg?raw=true" width="100%" alt="Background Banner">
 </p>
 
 <p align="center">
