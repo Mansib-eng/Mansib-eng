@@ -4,10 +4,6 @@
   <img src="https://github.com/Mansib-eng/Mansib-eng/blob/main/ai.jpg?raw=true" width="100%" alt="Background Banner">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Mansib-eng.png" width="150" height="150" style="border-radius: 50%;" alt="Ibnul Mansib">
-</p>
-
 ## 🧑‍💻 About Me
 - 🎓 I’m currently studying **BSc in Computer Science and Engineering** at **Shahjalal University of Science and Technology**.
 - 🔭 I’m currently working on **[Code Buddy (A website-based project)](#)**.
